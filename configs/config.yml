@@ -1,0 +1,88 @@
+info:
+  namespace: knrrank
+  
+font_images:
+ owner:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "owner.png"
+    scale_ratio: 9
+    y_position: 8
+ admin:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "admin.png"
+    scale_ratio: 9
+    y_position: 8
+ dev:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "developer.png"
+    scale_ratio: 9
+    y_position: 8
+ supermod:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "supermod.png"
+    scale_ratio: 9
+    y_position: 8
+ mod:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "mod.png"
+    scale_ratio: 9
+    y_position: 8
+ chatmod:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "chatmod.png"
+    scale_ratio: 9
+    y_position: 8
+ streamer:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "streamer.png"
+    scale_ratio: 9
+    y_position: 8
+ youtube:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "youtube.png"
+    scale_ratio: 9
+    y_position: 8
+ vipplusplus:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "vipplusplus.png"
+    scale_ratio: 9
+    y_position: 8
+ vipplus:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "vipplus.png"
+    scale_ratio: 9
+    y_position: 8
+ vip:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "vip.png"
+    scale_ratio: 9
+    y_position: 8
+ player:
+    permission: "betterranks.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "player.png"
+    scale_ratio: 9
+    y_position: 8
